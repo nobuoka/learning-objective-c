@@ -1,5 +1,5 @@
-#include <stdio.h>
-#include <Foundation/NSObject.h>
+#import <stdio.h>
+#import <Foundation/NSObject.h>
 
 void chapter0201(void) {
     printf("=== Chapter 02-01 ===\n");
